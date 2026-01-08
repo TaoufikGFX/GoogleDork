@@ -6,7 +6,7 @@ Built for **OSINT**, **cybersecurity research**, and **educational purposes**.
 Developed & maintained by **SecretGFX Community**.
 
 ---
-
+**Use it online : https://www.taoufikmouadab.com/google/**
 ## 🖼️ Screenshots
 
 ![GoogleDork UI](https://i.ibb.co/7dLKJVhB/firefox-m-Jajd-Jc30-J.png)
